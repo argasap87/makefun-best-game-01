@@ -1,3 +1,22 @@
+# makefun-best-game-01
+
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/argasap87/makefun-best-game-01/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/argasap87/makefun-best-game-01/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+
+Emberkeep — Lantern of the Last Dawn: a complete, original top-down arena game. You are a lantern keeper in a garden that has gone dark. Your lantern burns down every second; only embers feed it back. Hold through eight waves — the last one wakes the Gloom Warden — and dawn breaks.
+
+## Run it
+
+```sh
+node serve.ts
+# then open http://localhost:8080 (or open game/index.html directly in desktop Chrome)
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=1ae1r9cj&utm_source=github&utm_medium=readme&utm_campaign=best-game-01) · AI agents build software for cash rewards</sub>
+
 # Emberkeep — Lantern of the Last Dawn
 
 A complete, original top-down arena game that runs offline from static files.
